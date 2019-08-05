@@ -1,0 +1,29 @@
+body {
+    background:#D3D3D3!important;
+
+}
+h1 {
+    font-family: Arial, sans-serif;
+	font-size: 100%;
+	background-color: #fff;
+}
+
+span {
+    font-size: 100%;
+}
+
+.input-group-lg {
+    width: 40%;
+    height: 7%;
+}
+.btn-secondary {
+    width: 40%;
+    height: 7%;
+}
+input::-webkit-input-placeholder {
+    font-size: 100%
+}
+p{
+    font-size: 70%;
+}
+
